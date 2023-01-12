@@ -4,7 +4,7 @@ This tracker is for issues with the existing sidewalk network, cycling network, 
 
 This tracker is inspired by Mateusz Konieczny's [Krakow Road Issues](https://github.com/matkoniecz/Krakow/issues/1025) project as well as an intention stated by the former Lynchburg City manager Bonnie Svrcek to create a [sidewalk project rating system](https://wset.com/news/local/lynchburg-to-create-sidewalk-rating-system-for-city-residents).
 
-Rules for issue contribution:
+## Rules for issue contribution
 * Use precise language to describe what is wrong or exactly what you would like to see changed
 * Provide pictures or street-view screenshots of the area if possible
 * Provide a link to the area on OpenStreetMap, Google Maps, etc.
