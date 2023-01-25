@@ -8,3 +8,6 @@ This tracker is inspired by Mateusz Konieczny's [Krakow Road Issues](https://git
 * Use precise language to describe what is wrong or exactly what you would like to see changed
 * Provide pictures or street-view screenshots of the area if possible
 * Provide a link to the area on OpenStreetMap, Google Maps, etc.
+* Every issue must have the `bug` or `enhancement` tag
+* Every `bug` issue must have an `authority:` tag. For example `authority:vdot` or `authority:apco`
+* After a bug has been submitted
