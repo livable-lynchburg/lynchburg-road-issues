@@ -1,4 +1,4 @@
-# Lynchburg Road Issues
+# 🚧 Lynchburg Road Issues 🚧
 
 This tracker is for issues with the existing sidewalk network, cycling network, and roads in Lynchburg, Virginia, USA. It is also a place for new ideas that would make the transportation networks in the city safer, more beautiful, and more efficient.
 
