@@ -10,6 +10,7 @@ This tracker is inspired by Mateusz Konieczny's [Krakow Road Issues](https://git
 * Provide a link to the area on OpenStreetMap, Google Maps, etc.
 * Every issue must have the `bug` or `enhancement` tag
 * Every `bug` issue must have an `authority:` tag. For example `authority:vdot` or `authority:apco` (just make your best guess)
+  * The [VDOT Maintenance Responsibility Map](https://vdot.maps.arcgis.com/apps/mapviewer/index.html?layers=c557bfd8c83e4ff4a93699ddf3c956b8) may be useful
 * After a bug has been submitted to the relevant authority, add the `submitted` tag and comment with a copy of the report/request you submitted to the authority
 
 To request access to this bug tracker or submit a bug, please email [urban.lynchburg.xyz@nathanwyand.com](mailto:urban.lynchburg.xyz@nathanwyand.com) with as much detail as possible.
