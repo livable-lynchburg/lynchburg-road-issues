@@ -14,3 +14,9 @@ This tracker is inspired by Mateusz Konieczny's [Krakow Road Issues](https://git
 * After a bug has been submitted to the relevant authority, add the `submitted` tag and comment with a copy of the report/request you submitted to the authority
 
 To request access to this bug tracker or submit a bug, please email [urban.lynchburg.xyz@nathanwyand.com](mailto:urban.lynchburg.xyz@nathanwyand.com) with as much detail as possible.
+
+## Contacts
+### Lynchburg Citizens First Customer Service
+* Phone: 434-856-2489
+* Email: citizensfirst@lynchburgva.gov
+* Web form: https://www.lynchburgva.gov/citizen-first-request
