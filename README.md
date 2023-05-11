@@ -12,7 +12,7 @@ This tracker is inspired by Mateusz Konieczny's [Krakow Road Issues](https://git
 * Every `bug` issue must have an `authority:` tag. For example `authority:vdot` or `authority:apco` (just make your best guess)
   * The [VDOT Maintenance Responsibility Map](https://vdot.maps.arcgis.com/apps/mapviewer/index.html?layers=c557bfd8c83e4ff4a93699ddf3c956b8) may be useful
 * After a bug has been submitted to the relevant authority, add the `submitted` tag and comment with a copy of the report/request you submitted to the authority
-* If this issue is temporary, like an obstruction of a sidewalk, bike lane, or motor vehicle lane, **DO NOT** add an issue to this tracker. Instead call the Lynchburg Police Department non-emergency line at `+1 434 847 1602` and report the issue. If a bike lane is obstructed, additionally submit information about the obstruction to [Bike Lane Uprising](https://www.bikelaneuprising.com/) or email [urban.lynchburg.xyz@nathanwyand.com](mailto:urban.lynchburg.xyz@nathanwyand.com) with as much detail as possible.
+* If this issue is temporary, like an obstruction of a sidewalk, bike lane, or motor vehicle lane, **DO NOT** add an issue to this tracker. Instead call the Lynchburg Police Department non-emergency line at [+1 434 847 1602](tel:+14348471602) and report the issue. If a bike lane is obstructed, additionally submit information about the obstruction to [Bike Lane Uprising](https://www.bikelaneuprising.com/) or email [urban.lynchburg.xyz@nathanwyand.com](mailto:urban.lynchburg.xyz@nathanwyand.com) with as much detail as possible.
 
 To submit an issue, sign up for a Github account or email [urban.lynchburg.xyz@nathanwyand.com](mailto:urban.lynchburg.xyz@nathanwyand.com) with as much detail as possible.
 
