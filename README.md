@@ -21,3 +21,7 @@ To submit an issue, sign up for a Github account or email [urban.lynchburg.xyz@n
 * Phone: 434-856-2489
 * Email: citizensfirst@lynchburgva.gov
 * Web form: https://www.lynchburgva.gov/citizen-first-request
+
+### Appalachian Power
+* Web form: https://www.appalachianpower.com/outages/problem/streetlight
+    * Be sure to request a bulb with lower brightness if the streetlight is in a residential area.
