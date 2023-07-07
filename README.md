@@ -17,11 +17,26 @@ This tracker is inspired by Mateusz Konieczny's [Krakow Road Issues](https://git
 To submit an issue, sign up for a Github account or email [urban.lynchburg.xyz@nathanwyand.com](mailto:urban.lynchburg.xyz@nathanwyand.com) with as much detail as possible.
 
 ## Contacts
-### Lynchburg Citizens First Customer Service
-* Phone: 434-856-2489
+`⚠️ REMEMBER: Be kind and considerate when contacting our elected and appointed officials. ⚠️`
+
+### City of Lynchburg
+#### Citizens First Customer Service
+* Phone: +1 434 856 2489
 * Email: citizensfirst@lynchburgva.gov
 * Web form: https://www.lynchburgva.gov/citizen-first-request
+#### Public Works
+* Deputy Director of Public Works 
+    * Traffic Engineer - Ryan Roberts (not sure if under deputy director)
+        * Phone: +1 434 455 3945 
+    * Streets (drainage, crumbling, potholes) - Anthony Johnson
+        * Phone: +1 434 455 4459
+    * Paving contracts, curbs, ADA ramps - Tim Yarn (not actual surname)
+        * Phone: +1 434 455 4457
+#### Community Development
+* Neighborhood Planner II - Charlotte Lester (does community engagement)
+    * Phone: +1 434 455 3893
+    * Email: charlotte.lester@lynchburgva.gov
 
 ### Appalachian Power
 * Web form: https://www.appalachianpower.com/outages/problem/streetlight
-    * Be sure to request a bulb with lower brightness if the streetlight is in a residential area.
+    * Be sure to request a bulb with lower brightness if the streetlight is in a residential area
