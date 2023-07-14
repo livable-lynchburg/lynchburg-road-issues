@@ -25,7 +25,7 @@ To submit an issue, sign up for a Github account or email [urban.lynchburg.xyz@n
 * Email: citizensfirst@lynchburgva.gov
 * Web form: https://www.lynchburgva.gov/citizen-first-request
 #### Public Works
-* Deputy Director of Public Works 
+* Deputy Director of Public Works - Gaynelle L. Hart
     * Traffic Engineer - Ryan Roberts (not sure if under deputy director)
         * Phone: +1 434 455 3945
         * 4-5 sign technicians
