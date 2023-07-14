@@ -27,11 +27,15 @@ To submit an issue, sign up for a Github account or email [urban.lynchburg.xyz@n
 #### Public Works
 * Deputy Director of Public Works 
     * Traffic Engineer - Ryan Roberts (not sure if under deputy director)
-        * Phone: +1 434 455 3945 
+        * Phone: +1 434 455 3945
+        * 4-5 sign technicians
+        * 3 signal technicians
     * Streets (drainage, crumbling, potholes) - Anthony Johnson
         * Phone: +1 434 455 4459
     * Paving contracts, curbs, ADA ramps - Tim Yarn (not actual surname)
         * Phone: +1 434 455 4457
+    * 2 surveyors (maybe under one of the engineers)
+    * 5 construction inspectors (maybe under one of the engineers)
 #### Community Development
 * Neighborhood Planner II - Charlotte Lester (does community engagement)
     * Phone: +1 434 455 3893
