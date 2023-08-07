@@ -36,6 +36,9 @@ To submit an issue, sign up for a Github account or email [urban.lynchburg.xyz@n
         * Phone: +1 434 455 4457
     * 2 surveyors (maybe under one of the engineers)
     * 5 construction inspectors (maybe under one of the engineers)
+#### Unknown Department
+* Building Maintenance Manager (lamps, fountains, etc. on non-right-of-way city properties) - Steven Bailey
+    * Phone: +1 434 455 4408
 #### Community Development
 * Neighborhood Planner II - Charlotte Lester (does community engagement)
     * Phone: +1 434 455 3893
