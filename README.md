@@ -43,6 +43,8 @@ To submit an issue, sign up for a Github account or email [urban.lynchburg.xyz@n
 * City Engineer - Lee Newland
 * Engineer of some kind - John Hall
   * Phone: +1 434 455 3935
+* Engineer of some kind - Tommy Hammock
+  * Phone: +1 434 455 3918
 #### Community Development
 * Neighborhood Planner II - Charlotte Lester (does community engagement)
     * Phone: +1 434 455 3893
