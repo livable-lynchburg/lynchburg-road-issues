@@ -39,6 +39,10 @@ To submit an issue, sign up for a Github account or email [urban.lynchburg.xyz@n
 #### Unknown Department
 * Building Maintenance Manager (lamps, fountains, etc. on non-right-of-way city properties) - Steven Bailey
     * Phone: +1 434 455 4408
+#### Engineering (maybe under Public Works but not sure)
+* City Engineer - Lee Newland
+* Engineer of some kind - John Hall
+  * Phone: +1 434 455 3935
 #### Community Development
 * Neighborhood Planner II - Charlotte Lester (does community engagement)
     * Phone: +1 434 455 3893
