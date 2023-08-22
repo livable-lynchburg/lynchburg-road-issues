@@ -32,7 +32,7 @@ To submit an issue, sign up for a Github account or email [urban.lynchburg.xyz@n
         * 3 signal technicians
     * Streets (drainage, crumbling, potholes) - Anthony Johnson
         * Phone: +1 434 455 4459
-    * Paving contracts, curbs, ADA ramps - Tim Yarn (not actual surname)
+    * Paving contracts, curbs, ADA ramps - Tim Yarn Benjamin
         * Phone: +1 434 455 4457
     * 2 surveyors (maybe under one of the engineers)
     * 5 construction inspectors (maybe under one of the engineers)
