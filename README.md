@@ -49,7 +49,8 @@ To submit an issue, sign up for a Github account or email [urban.lynchburg.xyz@n
 * Neighborhood Planner II - Charlotte Lester (does community engagement)
     * Phone: +1 434 455 3893
     * Email: charlotte.lester@lynchburgva.gov
-
+#### Greater Lynchburg Transit Company
+* Email: Feedback@GLTConline.com
 ### Appalachian Power
 * Web form: https://www.appalachianpower.com/outages/problem/streetlight
     * Be sure to request a bulb with lower brightness if the streetlight is in a residential area
