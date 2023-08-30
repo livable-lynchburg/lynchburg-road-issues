@@ -52,5 +52,7 @@ To submit an issue, sign up for a Github account or email [urban.lynchburg.xyz@n
 #### Greater Lynchburg Transit Company
 * Email: Feedback@GLTConline.com
 ### Appalachian Power
-* Web form: https://www.appalachianpower.com/outages/problem/streetlight
+* Web form to report street lamp issue: https://www.appalachianpower.com/outages/problem/streetlight
     * Be sure to request a bulb with lower brightness if the streetlight is in a residential area
+### Verizon
+* Web form to report low-hanging lines: https://www.verizon.com/foryourhome/vzrepair/flowengine/UFDService.aspx?Keyword=FIX_PHYS
