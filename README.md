@@ -28,6 +28,7 @@ To submit an issue, sign up for a Github account or email [urban.lynchburg.xyz@n
 * Email: citizensfirst@lynchburgva.gov
 * Web form: https://www.lynchburgva.gov/citizen-first-request
 #### Public Works
+* Phone: +1 434 455 4450
 * Director of Public Works - Gaynelle L. Hart
     * Deputy Director of Public Works - William "Clay" Simmons
         * Email: clay.simmons@lynchburgva.gov
