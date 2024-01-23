@@ -23,6 +23,7 @@ To submit an issue, sign up for a Github account or email [urban.lynchburg.xyz@n
 `⚠️ REMEMBER: Be kind and considerate when contacting our elected and appointed officials. ⚠️`
 
 ### City of Lynchburg
+* [City staff directory](https://www.lynchburgva.gov/Directory.aspx)
 #### Citizens First Customer Service
 * Phone: +1 434 856 2489
 * Email: citizensfirst@lynchburgva.gov
