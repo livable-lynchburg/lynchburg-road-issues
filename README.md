@@ -69,3 +69,6 @@ To submit an issue, sign up for a Github account or email [urban.lynchburg.xyz@n
 ### Verizon
 * Facebook Messenger: https://www.facebook.com/verizon/
     * This is the only way to report pole and line issues without a phone call if you do not have a Verizon account
+
+## Tools
+* [Severance Snape - An OpenStreetMap tool for finding "severances" in the pedestrian network that make walking trips very long](https://dabreegster.github.io/severance_snape)
