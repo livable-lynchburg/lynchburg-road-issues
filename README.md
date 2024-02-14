@@ -27,7 +27,7 @@ To submit an issue, sign up for a Github account or email [urban.lynchburg.xyz@n
 #### Citizens First Customer Service
 * Phone: +1 434 856 2489
 * Email: citizensfirst@lynchburgva.gov
-* Web form: https://www.lynchburgva.gov/citizen-first-request
+* Web form: https://www.lynchburgva.gov/739/Citizen-First-Customer-Service
 #### Public Works
 * Phone: +1 434 455 4450
 * Director of Public Works - Gaynelle L. Hart
