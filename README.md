@@ -44,12 +44,12 @@ To submit an issue, sign up for a Github account or email [urban.lynchburg.xyz@n
         * Phone: +1 434 455 4459
     * Paving contracts, curbs, ADA ramps - Tim Yarn Benjamin
         * Phone: +1 434 455 4457
+    * Building Maintenance Manager (lamps, fountains, etc. that are not on right-of-way, GLTC property, or city schools property) - Steven "Steve" Bailey
+        * Phone: +1 434 455 4408
     * 2 surveyors (maybe under one of the engineers)
     * 5 construction inspectors (maybe under one of the engineers)
 #### Unknown Department(s)
-* Building Maintenance Manager (lamps, fountains, etc. on non-right-of-way city properties) - Steven "Steve" Bailey
-    * Phone: +1 434 455 4408
-* Urban Forester - Nicholas Meyer
+* Urban Forester - Nicholas Meyer (leaning towards him being part of public works based on PW suffix for his approvals in eTrakit)
     * Email: nicholas.meyer@lynchburgva.gov
 #### Engineering (maybe under Public Works but not sure)
 * City Engineer - Lee Newland
