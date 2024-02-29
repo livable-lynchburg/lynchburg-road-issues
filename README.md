@@ -63,6 +63,8 @@ To submit an issue, sign up for a Github account or email [urban.lynchburg.xyz@n
     * Email: charlotte.lester@lynchburgva.gov
 #### Greater Lynchburg Transit Company
 * Email: Feedback@GLTConline.com
+* Facilities Maintenance Manager - Ernest White (lamps and such on GLTC property)
+  * Phone: +1 434 485 5080 ext 7643
 ### Appalachian Power
 * Web form to report street lamp issue: https://www.appalachianpower.com/outages/problem/streetlight
     * Be sure to request a bulb with lower brightness if the streetlight is in a residential area
