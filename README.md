@@ -74,3 +74,6 @@ To submit an issue, sign up for a Github account or email [urban.lynchburg.xyz@n
 
 ## Tools
 * [Severance Snape - An OpenStreetMap tool for finding "severances" in the pedestrian network that make walking trips very long](https://dabreegster.github.io/severance_snape)
+
+## Accountability
+* Nathan Wyand has a [Beeminder goal](https://www.beeminder.com/partytax/lri) that charges him money if he doesn't review at least one Lynchburg Road Issue every day
