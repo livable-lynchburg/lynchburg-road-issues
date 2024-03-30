@@ -68,6 +68,7 @@ To submit an issue, sign up for a Github account or email [urban.lynchburg.xyz@n
 ### Appalachian Power
 * Web form to report street lamp issue: https://www.appalachianpower.com/outages/problem/streetlight
     * Be sure to request a bulb with lower brightness if the streetlight is in a residential area
+* May also be possible to report lamps from this web map of all AEP lamps: https://streetlights.aep.com/
 ### Verizon
 * Facebook Messenger: https://www.facebook.com/verizon/
     * This is the only way to report pole and line issues without a phone call if you do not have a Verizon account
