@@ -1,0 +1,43 @@
+name: Weekly Team Sync
+on:
+  schedule:
+    - cron: 0 0 1 1 *
+
+jobs:
+  create_issue:
+    name: seeclickfix
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+    steps:
+      - name: create issue
+        run: |
+          if [[ $CLOSE_PREVIOUS == true ]]; then
+            previous_issue_number=$(gh issue list \
+              --label "$LABELS" \
+              --json number \
+              --jq '.[0].number')
+            if [[ -n $previous_issue_number ]]; then
+              gh issue close "$previous_issue_number"
+              gh issue unpin "$previous_issue_number"
+            fi
+          fi
+          new_issue_url=$(gh issue create \
+            --title "$TITLE" \
+            --assignee "$ASSIGNEES" \
+            --label "$LABELS" \
+            --body "$BODY")
+          if [[ $PINNED == true ]]; then
+            gh issue pin "$new_issue_url"
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+          TITLE: Check seeclickfix.com for issues in the Lynchburg area
+          ASSIGNEES: monalisa,doctocat,hubot
+          LABELS: weekly sync,docs-team
+          BODY: |
+            Visit https://seeclickfix.com/lynchburg (free account required) and review the map to determine if citizens have added any relevant issues. Nobody at the city looks at this map, so create a Lynchburg Road Issue for each relevant SeeClickFix issue you find, paste a link to this Lynchburg Road issue in the SeeClickFix issue comments, and close the SeeClickFix issue.
+          PINNED: false
+          CLOSE_PREVIOUS: false
+
