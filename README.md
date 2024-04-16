@@ -64,6 +64,10 @@ To submit an issue, sign up for a Github account or email [urban.lynchburg.xyz@n
     * Email: charlotte.lester@lynchburgva.gov
 #### Greater Lynchburg Transit Company
 * Email: Feedback@GLTConline.com
+* General Manager - Josh Moore
+* Assistant General Manager - Natalie Wilkins
+* GTFS data technician - Wendell Watts
+  * Email: wwattsII@gltconline.com
 * Facilities Maintenance Manager - Ernest White (lamps and such on GLTC property)
   * Phone: +1 434 485 5080 ext 7643
 ### Appalachian Power
