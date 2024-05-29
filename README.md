@@ -34,30 +34,29 @@ To submit an issue, sign up for a Github account or email [urban.lynchburg.xyz@n
     * Deputy Director of Public Works - William "Clay" Simmons
         * Email: clay.simmons@lynchburgva.gov
         * Phone: +1 434 455 4443
-    * Traffic Engineer - Ryan Roberts (not sure if under deputy director)
-        * Phone: +1 434 455 3945
-        * Bird scooters, intersection safety assessments - David Pinkstaff
-            * Email: david.pinkstaff@lynchburgva.gov
-            * Follows up on street lamp outages reported to Citizens First, but has no special authority over APCO repair priorities. You should submit street lamp issues directly to APCO.
-        * 4-5 sign technicians
-        * 3 signal technicians
-    * Streets (drainage, crumbling, potholes) - Anthony Johnson
-        * Phone: +1 434 455 4459
-    * Paving contracts, curbs, ADA ramps - Tim Yarn Benjamin
-        * Phone: +1 434 455 4457
-    * Building Maintenance Manager (lamps, fountains, etc. that are not on right-of-way, GLTC property, or city schools property) - Steven "Steve" Bailey
-        * Phone: +1 434 455 4408
-    * 2 surveyors (maybe under one of the engineers)
-    * 5 construction inspectors (maybe under one of the engineers)
-#### Unknown Department(s)
-* Urban Forester - Nicholas Meyer (leaning towards him being part of public works based on PW suffix for his approvals in eTrakit)
-    * Email: nicholas.meyer@lynchburgva.gov
-#### Engineering (maybe under Public Works but not sure)
-* City Engineer - Lee Newland
-* Engineer of some kind - John Hall
-  * Phone: +1 434 455 3935
-* Engineer of some kind - Tommy Hammock
-  * Phone: +1 434 455 3918
+        * City Engineer - Lee Newland
+            * Engineer of some kind - John Hall
+                * Phone: +1 434 455 3935
+            * Engineer of some kind - Tommy Hammock
+                * Phone: +1 434 455 3918
+            * Traffic Engineer - Ryan Roberts (not sure if under deputy director)
+                * Phone: +1 434 455 3945
+                * Bird scooters, intersection safety assessments - David Pinkstaff
+                    * Email: david.pinkstaff@lynchburgva.gov
+                    * Follows up on street lamp outages reported to Citizens First, but has no special authority over APCO repair priorities. You should submit street lamp issues directly to APCO.
+                * 4-5 sign technicians
+                * 3 signal technicians
+            * Streets (drainage, crumbling, potholes) - Anthony Johnson
+                * Phone: +1 434 455 4459
+            * Paving contracts, curbs, ADA ramps - Tim Yarn Benjamin
+                * Phone: +1 434 455 4457
+            * Building Maintenance Manager (lamps, fountains, etc. that are not on right-of-way, GLTC property, or city schools property) - Steven "Steve" Bailey
+                * Phone: +1 434 455 4408
+            * 2 surveyors (maybe under one of the engineers)
+            * 5 construction inspectors (maybe under one of the engineers)
+            * Urban Forester - Nicholas Meyer
+                * Email: nicholas.meyer@lynchburgva.gov
+
 #### Community Development
 * Neighborhood Planner II - Charlotte Lester (does community engagement)
     * Phone: +1 434 455 3893
