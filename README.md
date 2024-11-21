@@ -50,6 +50,8 @@ To submit an issue, sign up for a Github account or email [info@livablelynchburg
                 * Phone: +1 434 455 4459
             * Paving contracts, curbs, ADA ramps - Tim Yarn Benjamin
                 * Phone: +1 434 455 4457
+            * Road repainting - Howard Parker
+                * Phone: +1 434 455 4466
             * Building Maintenance Manager (lamps, fountains, etc. that are not on right-of-way, GLTC property, or city schools property) - Steven "Steve" Bailey
                 * Phone: +1 434 455 4408
             * 2 surveyors (maybe under one of the engineers)
