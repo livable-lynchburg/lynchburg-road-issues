@@ -52,6 +52,7 @@ To submit an issue, sign up for a Github account or email [info@livablelynchburg
                 * Phone: +1 434 455 4457
             * Road repainting - Howard Parker
                 * Phone: +1 434 455 4466
+                * NOTE: Per [this](https://translineinc.com/wp-content/uploads/2024/10/Transline-Education.pdf) source, thermoplastic that's used for crosswalks should be applied only when roadway is above 50 degrees Fahrenheit, which means we shouldn't follow up as aggressively about crosswalk refreshing in the winter.
             * Building Maintenance Manager (lamps, fountains, etc. that are not on right-of-way, GLTC property, or city schools property) - Steven "Steve" Bailey
                 * Phone: +1 434 455 4408
             * 2 surveyors (maybe under one of the engineers)
