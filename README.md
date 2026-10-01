@@ -1,3 +1,6 @@
+**⚠️ THIS ISSUES REPOSITORY WAS ARCHIVED ON 2026-10-01 AND WILL REMAIN SO FOR THE FORSEEABLE FUTURE ⚠️**
+---
+
 # 🚧 Lynchburg Road Issues 🚧
 
 ➡️ [CLICK HERE TO VIEW AND ADD ISSUES](https://github.com/livable-lynchburg/lynchburg-road-issues/issues)
